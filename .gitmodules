@@ -1,0 +1,3 @@
+[submodule "child-3"]
+	path = child-3
+	url = https://github.com/mayurk-amdocs/child-3.git
